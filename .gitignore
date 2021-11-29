@@ -1,0 +1,10 @@
+
+**/*.pth
+*_checkpoints/
+.DS_Store
+**/*.out
+**/*.txt
+**/*.csv
+**/*.qdrep
+**/*.sqllite
+**/runs/*
